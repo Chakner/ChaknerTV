@@ -1,4 +1,4 @@
-const animeData = [
+[
   {
     name: "One Piece วันพีช ล่าขุมทรัพโจรสลัด ซีซัั้น 20",
     image:
